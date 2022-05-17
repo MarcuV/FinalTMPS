@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Beneficiari.Modificarea">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/yAAAAAAASAgABCAEACAAABCIAA4AAAQUHAAAAAAgLI=</HashCode>
+      <FileName>Modificarea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Beneficiari.Memento">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Beneficiari.Memento.Approver" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Modificarea.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Beneficiari.Memento.CheckData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Modificarea.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAEAgAABIBAAASAEAAAEACAABAAwAAABABA=</HashCode>
+      <FileName>Modificarea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
